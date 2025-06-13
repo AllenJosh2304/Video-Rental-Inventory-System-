@@ -29,11 +29,7 @@ VideoStore.java — Business logic for handling the inventory.
 VideoLauncher.java — Main class that handles user interaction via console.
 
 📌 How to Run
-Clone the repository:
-[[git clone https://github.com/AllenJosh2304/video-rental-inventory.git](https://github.com/AllenJosh2304/video-rental-inventory
-)](https://github.com/AllenJosh2304/Video-Rental-Inventory-System-)
-
-Open in your preferred IDE (IntelliJ, Eclipse, VSCode, etc).
+Clone the repository and Open in your preferred IDE (IntelliJ, Eclipse, VSCode, etc).
 
 Compile and run VideoLauncher.java.
 
