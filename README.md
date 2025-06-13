@@ -30,7 +30,8 @@ VideoLauncher.java — Main class that handles user interaction via console.
 
 📌 How to Run
 Clone the repository:
-git clone https://github.com/AllenJosh2304/video-rental-inventory.git
+[git clone https://github.com/AllenJosh2304/video-rental-inventory.git](https://github.com/AllenJosh2304/video-rental-inventory
+)
 
 Open in your preferred IDE (IntelliJ, Eclipse, VSCode, etc).
 
